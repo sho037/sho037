@@ -7,3 +7,11 @@
 sho037/sho037 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h2>スキル</h2>
+[![My Skills](https://skillicons.dev/icons?i=html,css,c)](https://skillicons.dev)
+<h2>使えるツール</h2>
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,vscode,linux,git,github,ai,ps,instagram,discord)](https://skillicons.dev)
+<h3>お勉強中</h3>
+[![My Skills](https://skillicons.dev/icons?i=ae,au,aws,azure,bootstrap,docker,gcp,java,js,jquery,laravel,nextjs,nodejs,php,py,ruby,rails,swift,ts,)](https://skillicons.dev)
+
+お勉強することたくさんすぎいい
