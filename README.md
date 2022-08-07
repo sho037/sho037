@@ -1,5 +1,5 @@
-こんにちは！
-私は@sho037です！
+こんにちは！<br>
+私は@sho037です！<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sho037)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
