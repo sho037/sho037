@@ -3,12 +3,13 @@
 なんでかRubyしか反映されないなぜ！<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sho037&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sho037&count_private=true&layout=default&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)<br>
-
-<h2>スキル<h2>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<h2>スキル</h2>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,c)](https://skillicons.dev)
-<h2>使えるツール<h2>
+<h2>使えるツール</h2>
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,vscode,linux,git,github,ai,ps,instagram,discord)](https://skillicons.dev)
-<h3>お勉強中<h3>
+<h3>お勉強中</h3>
 [![My Skills](https://skillicons.dev/icons?i=ae,au,aws,azure,bootstrap,docker,gcp,java,js,jquery,laravel,nextjs,nodejs,php,py,ruby,rails,swift,ts,)](https://skillicons.dev)
 
 お勉強することたくさんすぎいい
