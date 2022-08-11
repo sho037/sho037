@@ -8,7 +8,7 @@
 使えるツール<br>
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,vscode,linux,git,github,ai,ps,instagram,discord)](https://skillicons.dev)<br>
 お勉強中<br>
-[![My Skills](https://skillicons.dev/icons?i=ae,au,aws,azure,bootstrap,docker,gcp,java,js,jquery,laravel,nextjs,nodejs,php,py,ruby,rails,swift,ts,)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=pr,ae,au,aws,azure,bootstrap,docker,gcp,java,js,jquery,laravel,nextjs,nodejs,php,py,ruby,rails,swift,ts,)](https://skillicons.dev)<br>
 
 お勉強することたくさんすぎいい
 
