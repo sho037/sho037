@@ -1,8 +1,6 @@
-こんにちは！<br>
-私はsho037です！<br>
-生涯勉強、勉強、ITは技術革新がすごいっす追いつけん、<br>
-最近はRailsとかを頑張ってます。<br>
-バックエンド頑張ります、、、<br>
+# sho037
+最近はRuby on Railsを勉強してます。技術力不足なので遠回りをし続けています。<br>
+KC3にて、皆さんの活動の凄さを思い知ったので、これからもっと尽力するつもりです。よろしくお願いします。<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sho037&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sho037&count_private=true&layout=compact&theme=midnight-purple&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)<br>
 スキル<br>
