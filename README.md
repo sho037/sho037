@@ -7,10 +7,8 @@ KC3にて、皆さんの活動の凄さを思い知ったので、これから�
 [![My Skills](https://skillicons.dev/icons?i=c,html,css)](https://skillicons.dev)<br>
 使えるツール<br>
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,vscode,linux,git,github,ai,ps)](https://skillicons.dev)<br>
-<!-- お勉強中<br>
-[![My Skills](https://skillicons.dev/icons?i=pr,ae,au,aws,azure,bootstrap,docker,gcp,java,js,jquery,laravel,nextjs,nodejs,php,py,ruby,rails,swift,ts,)](https://skillicons.dev)<br>
-
-お勉強することたくさんすぎいい -->
+お勉強中<br>
+[![My Skills](https://skillicons.dev/icons?i=pr,ae,au,bootstrap,docker,java,js,jquery,laravel,php,py,ruby,rails)](https://skillicons.dev)<br>
 
 <!---
 sho037/sho037 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
