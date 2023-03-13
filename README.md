@@ -5,6 +5,11 @@ KC3にて、皆さんの活動の凄さを思い知ったので、これから�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sho037&count_private=true&layout=compact&theme=midnight-purple&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)<br>
 スキル<br>
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,java,linux,git,github,docker,react,js)](https://skillicons.dev)<br>
+
+## ブログ
+
+ブログは[こちら](https://sho037.github.io/)から
+
 <!---
 sho037/sho037 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
