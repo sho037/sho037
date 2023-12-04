@@ -3,8 +3,11 @@
 KC3にて、皆さんの活動の凄さを思い知ったので、これからもっと尽力するつもりです。よろしくお願いします。<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sho037&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sho037&count_private=true&layout=compact&theme=midnight-purple&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)<br>
-スキル<br>
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,java,linux,git,github,docker,react,js,ts,spring)](https://skillicons.dev)<br>
+
+## スキル 
+
+学んできた順です。<br>
+[![My Skills](https://skillicons.dev/icons?i=ai,c,html,css,bootstrap,java,linux,git,github,docker,mysql,react,js,ts,materialui,ruby,rails,spring)](https://skillicons.dev)<br>
 
 ## ブログ
 
