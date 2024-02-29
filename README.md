@@ -7,7 +7,7 @@ KC3にて、皆さんの活動の凄さを思い知ったので、これから�
 ## スキル 
 
 学んできた順です。<br>
-[![My Skills](https://skillicons.dev/icons?i=ai,c,html,css,bootstrap,java,linux,git,github,docker,mysql,react,js,ts,materialui,ruby,rails,spring)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=ai,c,html,css,bootstrap,java,linux,git,github,docker,mysql,react,js,ts,materialui,ruby,rails,spring,aws)](https://skillicons.dev)<br>
 
 ## ブログ
 
