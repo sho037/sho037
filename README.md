@@ -4,8 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sho037&count_private=true&layout=compact&theme=midnight-purple&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)<br>
 -->
 
-<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sho037&theme=midnight_purple)
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sho037&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sho037&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sho037&theme=midnight_purple)
